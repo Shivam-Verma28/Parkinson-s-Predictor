@@ -16,6 +16,7 @@ This project aims to detect Parkinson’s Disease from voice samples using class
 - **Rows**: 195 samples
 - **Columns**: 24 total (22 biomedical voice features, 1 target label, 1 identifier)
 - **Target Variable**: `status` (0 = healthy, 1 = Parkinson’s)
+- Attached some Voice Recordings Dataset for testing purpose.
 
 ---
 
